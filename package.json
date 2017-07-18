@@ -1,5 +1,5 @@
 {
-  "name": "@rexsoftware/react-popper",
+  "name": "@rexlabs/react-popper",
   "version": "0.7.0",
   "description": "React wrapper around PopperJS.",
   "main": "lib/react-popper.js",
